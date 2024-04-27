@@ -27,6 +27,8 @@ _These scripts will Customize, Debloat and Improve Privacy/Performance and Syste
 
 This has a collection of scripts to tweak the system per category, using different functions to adjust the system settings and make Windows great again! You can also install your favorite softwares through the GUI with just one click after being selected.
 
+<p><strong>For Latest Tech Tutorials and Tech News visit our blog: <a href="https://www.bloggersverse.com/">https://www.bloggersverse.com</a> </strong></p>
+
 > _Use on a fresh Windows install to notice the differences. Using an admin account is recommended to avoid any compatibility issues._
 
 ⚠️ **DISCLAIMER:** _You're doing this at your own risk, I am not responsible for any data loss or damage that may occur. It's not guaranteed that every feature removed from the system can be easily restored._
